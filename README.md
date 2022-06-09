@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mohammad-sharifi
 - 👀 I’m interested in reading books and learning new stuff
 - 🌱 I’m currently learning deep learning and bioinformatics stuff
-- 💞️ I’m looking to collaborate on ...
 - 📫 reach me at mohammad1377sharifi@gmail.com
 
 <!---
